@@ -1,3 +1,7 @@
+* Wed Oct 31 2018 Jeanne Greulich <jeanne.greulich@onyxpoint.com> - 6.1.0-0
+- Booo!
+- static updates for puppet 5
+
 * Wed Oct 03 2018 Jeanne Greulich <jeanne.greulich@onyxpoint.com> - 6.1.0-0
 - Add package_ensure parameter to use simp_options package_ensure value
   for managing the installation of packages.
